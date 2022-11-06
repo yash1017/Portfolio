@@ -78,7 +78,7 @@ a{
   color:  #1E836C;
   text-decoration: none;
 }
-.anchor:hover{
+a.anchor.d3:hover{
    color: white;
 }
 .profile{
