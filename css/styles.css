@@ -26,6 +26,9 @@ h1
 
   margin: 20 auto 0 auto;
 }
+h1:hover{
+  font-size:5.7rem ;
+}
 
 h2
 {
@@ -75,6 +78,9 @@ a{
   color:  #1E836C;
   text-decoration: none;
 }
+a.anchor:hover{
+   color: white;
+}
 .profile{
   padding: 50px;
   width: 40%;
@@ -123,6 +129,7 @@ p{
   margin: 0 auto;
   line-height: 2;
 }
+
 .d3
 {
   padding: 25px;
@@ -143,6 +150,15 @@ p{
   border-style: none;
   font-size: 20px;
 }
+a.btnan{
+  color: white;
+}
+
+.btn:hover{
+  background-color:#1E836C;
+  color: antiquewhite;
+}
+
 .comp{
   float:right;
   margin-left: 20px;
